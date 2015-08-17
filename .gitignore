@@ -1,0 +1,15 @@
+bin
+.metadata
+*~
+target/
+.settings/
+.classpath
+.project
+*.dump
+*.log
+tmp
+*.properties
+
+#Intellij
+.idea
+*.iml
